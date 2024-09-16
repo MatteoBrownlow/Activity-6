@@ -11,5 +11,7 @@ int main(){
   cin >> state;
   cout << "Enter your zip code: " << endl;
   cin >> zip;
+  cout << street << endl;
+  cout << city << ", " << state << ", " << zip;
   return 0;
 }
